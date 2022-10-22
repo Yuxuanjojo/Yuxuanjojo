@@ -2,13 +2,13 @@
 <p align="left">
     <a href="" alt="Contributors">
         <img src="https://visitor-badge.glitch.me/badge?page_id=Yuxuanjojo.Yuxuanjojo" /></a>
-    <a href="https://wakatime.com/@62a8741d-035b-492c-99a5-85ec0da2f80d">
+    <!-- <a href="https://wakatime.com/@62a8741d-035b-492c-99a5-85ec0da2f80d">
         <img src="https://wakatime.com/badge/user/62a8741d-035b-492c-99a5-85ec0da2f80d.svg" alt="Total time coded since Dec 25 2021" /></a>
-    <a href="https://github.com/Yuxuanjojo/Yuxuanjojo/graphs/contributors" alt="Contributors">
+    <a href="https://github.com/Yuxuanjojo/Yuxuanjojo/graphs/contributors" alt="Contributors"> -->
         <img src="https://img.shields.io/github/contributors/Yuxuanjojo/Yuxuanjojo" /></a>
     <a href="https://github.com/Yuxuanjojo/Yuxuanjojo/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/Yuxuanjojo/Yuxuanjojo" /></a>
-    <a href="https://www.linkedin.com/in/yee-ren-8b63a21a2/">
+    <a href="https://www.linkedin.com/in/yuxuan-long-96a6b5180/">
         <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555"
             /></a>
      <a href="https://github.com/Yuxuanjojo/Notebook/blob/master/LICENSE.txt">
@@ -31,38 +31,10 @@ This is **Yuxuanjojo** ✨
 
 
 ### My Stack ⚡
-<!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code> -->
-<code><img height="55" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img height="55" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<code><img height="45" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
-
-
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="40" src="https://www.runoob.com/wp-content/uploads/2015/07/restful.gif"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
-<code><img height="40" src="https://www.tutorialspoint.com/internet_of_things/images/contiki.jpg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg"></code>
-
-
-<!-- <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code> -->
-<!-- <code><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code> -->
-<!-- <code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code> -->
-<!-- <code><img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code> -->
-
-
 
 <!-- 
 ### I'm interested in 😄
@@ -87,9 +59,9 @@ This is **Yuxuanjojo** ✨
 
 <!-- add &hide=language to hide certain languages in the chart-->
 <p>
-  <img height="180em" width ="400em"src="https://github-readme-stats.vercel.app/api?username=Yuxuanjojo&count_private=true&show_icons=true&theme=vue&hide_border=true" />
+ <!-- <img height="180em" width ="400em"src="https://github-readme-stats.vercel.app/api?username=Yuxuanjojo&count_private=true&show_icons=true&theme=vue&hide_border=true" />
   <img height="160em" width ="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuxuanjojo&layout=compact&exclude_repo=Unity3d-Game-Design,WizardChess&theme=vue&hide_border=true"/> 
-</p>
+</p> -->
 
 
 
