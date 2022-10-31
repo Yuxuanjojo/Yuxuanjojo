@@ -23,7 +23,7 @@ This is **Yuxuanjojo** ✨
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="350" height="300" />
 <br></br>
 
-- 🔭 I’m currently working on    
+- 🔭 I’m currently working on KPMG virtual internship   
 - 🌱 I’m currently learning Data analyze 
 - 👯 I’m looking to find a job relevant to data
 - 📫 How to reach me: [Yuxuanjojo](mailto:qingyuan3074@gmail.com)   
